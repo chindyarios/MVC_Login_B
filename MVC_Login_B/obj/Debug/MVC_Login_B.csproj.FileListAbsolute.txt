@@ -1,0 +1,305 @@
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\ApplicationInsights.config
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\csc.exe
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\csc.exe.config
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\csc.rsp
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\csi.exe
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\csi.rsp
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.AppContext.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.Collections.Immutable.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.IO.FileSystem.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\vbc.exe
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\vbc.exe.config
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\vbc.rsp
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\VBCSCompiler.exe
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\roslyn\VBCSCompiler.exe.config
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\MVC_Login_B.dll.config
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\MVC_Login_B.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\MVC_Login_B.pdb
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Antlr3.Runtime.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\EntityFramework.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\EntityFramework.SqlServer.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.Web.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.WindowsServer.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.ApplicationInsights.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Google.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Web.Infrastructure.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Newtonsoft.Json.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Owin.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Helpers.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Mvc.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Optimization.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Razor.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.Deployment.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.Razor.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\WebGrease.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Helpers.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Mvc.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Optimization.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.Razor.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.Deployment.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\System.Web.WebPages.Razor.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Antlr3.Runtime.pdb
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Newtonsoft.Json.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\EntityFramework.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\EntityFramework.SqlServer.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Google.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.ApplicationInsights.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.WindowsServer.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\Microsoft.AI.Web.xml
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\obj\Debug\MVC_Login_B.csprojResolveAssemblyReference.cache
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\obj\Debug\MVC_Login_B.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\obj\Debug\MVC_Login_B.pdb
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\obj\Debug\MVC_Login_B.Migrations.AddClassLoginModel.resources
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\obj\Debug\MVC_Login_B.csproj.GenerateResource.Cache
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\BCrypt.Net.dll
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\BCrypt.Net.pdb
+D:\Bootcamp\GitHUb\MVC_Login_B\MVC_Login_B\bin\BCrypt.Net.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\ApplicationInsights.config
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\csc.exe
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\csc.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\csc.rsp
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\csi.exe
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\csi.rsp
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.AppContext.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.Collections.Immutable.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.IO.FileSystem.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\System.Reflection.Metadata.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\vbc.exe
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\vbc.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\vbc.rsp
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\VBCSCompiler.exe
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\roslyn\VBCSCompiler.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\MVC_Login_B.dll.config
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\MVC_Login_B.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\MVC_Login_B.pdb
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Antlr3.Runtime.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\BCrypt.Net.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\EntityFramework.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\EntityFramework.SqlServer.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.Web.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.WindowsServer.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.ApplicationInsights.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Google.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Web.Infrastructure.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Newtonsoft.Json.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Helpers.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Mvc.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Optimization.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Razor.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.Deployment.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.Razor.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\WebGrease.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\BCrypt.Net.pdb
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\BCrypt.Net.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Helpers.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Mvc.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Optimization.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.Razor.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.Deployment.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\System.Web.WebPages.Razor.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Antlr3.Runtime.pdb
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Newtonsoft.Json.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\EntityFramework.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\EntityFramework.SqlServer.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Google.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.ApplicationInsights.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.WindowsServer.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\bin\Microsoft.AI.Web.xml
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\obj\Debug\MVC_Login_B.csprojResolveAssemblyReference.cache
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\obj\Debug\MVC_Login_B.Migrations.AddClassLoginModel.resources
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\obj\Debug\MVC_Login_B.csproj.GenerateResource.Cache
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\obj\Debug\MVC_Login_B.dll
+C:\KERJA\Kelas .Net\Github\MVC_first\MVC_Login_B\obj\Debug\MVC_Login_B.pdb
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\obj\Debug\MVC_Login_B.csprojResolveAssemblyReference.cache
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\obj\Debug\MVC_Login_B.Migrations.AddClassLoginModel.resources
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\obj\Debug\MVC_Login_B.csproj.GenerateResource.Cache
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\ApplicationInsights.config
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\csc.exe
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\csc.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\csc.rsp
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\csi.exe
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\csi.rsp
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.AppContext.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.Collections.Immutable.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.IO.FileSystem.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\System.Reflection.Metadata.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\vbc.exe
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\vbc.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\vbc.rsp
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\VBCSCompiler.exe
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\roslyn\VBCSCompiler.exe.config
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\MVC_Login_B.dll.config
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\MVC_Login_B.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\MVC_Login_B.pdb
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Antlr3.Runtime.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\BCrypt.Net.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Dapper.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\EntityFramework.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\EntityFramework.SqlServer.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.Web.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.WindowsServer.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.ApplicationInsights.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Google.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Web.Infrastructure.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Newtonsoft.Json.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Owin.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Helpers.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Mvc.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Optimization.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Razor.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.Deployment.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.Razor.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\WebGrease.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\BCrypt.Net.pdb
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\BCrypt.Net.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Dapper.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Helpers.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Mvc.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Optimization.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.Razor.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.Deployment.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\System.Web.WebPages.Razor.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Antlr3.Runtime.pdb
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Newtonsoft.Json.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\EntityFramework.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\EntityFramework.SqlServer.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.Core.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Facebook.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Cookies.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.OAuth.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Google.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.Twitter.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.ApplicationInsights.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.DependencyCollector.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.WindowsServer.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\bin\Microsoft.AI.Web.xml
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\obj\Debug\MVC_Login_B.dll
+C:\KERJA\Kelas .Net\Github\MVC_FirstCode\MVC_Login_B\obj\Debug\MVC_Login_B.pdb
